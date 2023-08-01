@@ -1,9 +1,9 @@
 # sidcup-family-golf
-Introduction
+->INTRODUCTION:-
 
 Welcome to the Sidcup Family Golf website repository! This repository contains the source code for the website of Sidcup Family Golf, a multipurpose golf facility located in Sidcup, South East London. The website is designed to be responsive and user-friendly, built using technologies like HTML, CSS, and JavaScript. Our goal is to provide a seamless online experience for visitors, reflecting our passion for technology, player development, and making golf fun and accessible to everyone.
 
-->Features:-
+->FEATURES:-
 
 1.Responsive Design: The website is built with a responsive layout, ensuring that it looks great and functions well on various devices, including desktops, laptops, tablets, and smartphones.
 
@@ -13,9 +13,10 @@ Welcome to the Sidcup Family Golf website repository! This repository contains t
 
 4.Player Development Programs: Detailed information about the golf facility's player development programs is provided, emphasizing various levels of coaching, group lessons, and individual instruction to cater to golfers of all skill levels.
 
-->Technologies Used:-
+->TECHNOLOGIES USED:-
 
 The website is built using the following technologies:
-HTML
-CSS
-JavaScript
+
+-HTML
+-CSS
+-JavaScript
