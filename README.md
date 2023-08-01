@@ -42,15 +42,6 @@ The Sidcup Family Golf website clone includes the following features:
 
 •JavaScript: For implementing interactive elements and dynamic functionality.
 
-●》Folder Structure
-
-sidcup-family-golf/
-  ├── index.html
-  ├── css/
-  │    └── style.css
-  └── js/
-       └── script.js
-
 ●》Contributing
 
 We welcome contributions to enhance this Sidcup Family Golf website clone. If you find any bugs, have improvements, or want to add new features, please create a pull request with your proposed changes.       
